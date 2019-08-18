@@ -1,0 +1,18 @@
+.wordmark-2iDDfm{
+    font-family: "Segoe UI", sans-serif !important;
+    font-size: 12px !important;
+    color: #fff !important;
+    opacity: 1 !important;
+}
+
+.wordmark-2iDDfm:before{
+    content: "Discord" !important;
+}
+
+.wordmark-2iDDfm:after{
+    content: " - Metro by A user" !important;
+}
+
+.wordmark-2iDDfm svg {
+    display: none !important;
+}
